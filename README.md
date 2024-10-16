@@ -49,7 +49,7 @@ You need to provide:
 | Total DagRuns to migrate| For each DAG found, this is the amount of dag_runs that will be migrated. Each dag_run will also include all their tas_instances|
 | Do you want to review the list| If you say Yes then a new text file will be created so you can review the DAGs list and confirm that those are all the ones you need|
 
-
+![screenshot](<Screenshot 2024-10-16 at 4.33.09 p.m..png>)
 
 ### References
 
